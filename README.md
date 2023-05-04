@@ -1,6 +1,18 @@
-### I'm Mahmoud Ahmed Khalaf 👋
+<h1 align="center">
+Hello, I'm Mahmoud Ahmed Khalaf!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A418B5&background=83596A00&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
 
+```
+https://github.com/MahmoudAhmedKhalef
+-------------------------
+💻 I am a user front end developer
+📝 I have a great interest in the field of GIS and front-end Developer.
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about ITI,NTI,Sohag University.
+🌟 Main languages: HTML,CSS, JavaScript.
+```
 ![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif)
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
@@ -48,9 +60,6 @@
 </p>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MahmoudAhmedKhalef&theme=synthwave&border_radius=5.1&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=551)](https://git.io/streak-stats)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahmoudAhmedKhalef&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmoudAhmedKhalef&theme=aura)
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 <p>
@@ -58,4 +67,5 @@
    <a href="https://www.facebook.com/محمودابواحمد/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
    <a href="m01159755345@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
   <a href="https://api.whatsapp.com/send?phone=+201159755345" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
+
 
