@@ -20,45 +20,61 @@ https://github.com/MahmoudAhmedKhalef
 ##### 💪 Programming Languages
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-2c292d.svg?style=for-the-badge&logo=css3&logoColor=ffffff"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-2c292d.svg?style=for-the-badge&logo=html5&logoColor=ffffff"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-2c292d.svg?style=for-the-badge&logo=java&logoColor=ffffff"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2c292d.svg?style=for-the-badge&logo=javascript&logoColor=ffffff"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-2c292d.svg?style=for-the-badge&logo=node.js&logoColor=ffffff"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-2c292d.svg?style=for-the-badge&logo=php&logoColor=ffffff"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff"></a>
+### Languages I use
 
-##### 💪 Frameworks and Libraries
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 
-<p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?style=for-the-badge&logo=bootstrap&logoColor=ffffff"></a>
+##### Some of the technologies I have worked with
 
-</p>
 
-##### 💪 Databases and Cloud Hosting
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-2c292d.svg?style=for-the-badge&logo=github&logoColor=ffffff"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2c292d?style=for-the-badge&logo=mysql&logoColor=ffffff"></a>
-</p>
+### 💪 Frameworks and Libraries
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+[![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
-##### 💪 Software and Tools
 
-<p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-2c292d.svg?style=for-the-badge&logo=adobe&logoColor=ffffff"></a>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-2c292d?style=for-the-badge&logo=google-chrome&logoColor=ffffff"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-2c292d.svg?style=for-the-badge&logo=google-colab&logoColor=ffffff"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-2c292d.svg?style=for-the-badge&logo=codepen&logoColor=ffffff"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-2c292d.svg?style=for-the-badge&logo=git&logoColor=ffffff"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-2c292d.svg?style=for-the-badge&logo=google%20sheets&logoColor=ffffff"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-2c292d.svg?style=for-the-badge&logo=Jupyter&logoColor=ffffff"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-2c292d?style=for-the-badge&logo=postman&logoColor=ffffff"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-2c292d?style=for-the-badge&logo=stack-overflow&logoColor=ffffff"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2c292d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
-</p>
-<br>
+## Database
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+## Design
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
+![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
+![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
+
+##### Some of my favorite open source projects
+
+
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmoudAhmedKhalef&theme=aura)
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
@@ -75,3 +91,7 @@ https://github.com/MahmoudAhmedKhalef
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 </p>
 <br>
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
+</p>
