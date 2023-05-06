@@ -18,6 +18,7 @@ https://github.com/MahmoudAhmedKhalef
 ##### 💪 Programming Languages
 
 <p>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
